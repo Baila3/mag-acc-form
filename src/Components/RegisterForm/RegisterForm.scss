@@ -1,0 +1,17 @@
+.forms {
+  border-color: blue;
+  border-radius: 0.5em;
+}
+.boxS {
+  padding: 1em 6em 2em;
+  border-radius: 0.5em;
+  border: 5px solid blue;
+}
+.signup_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 8%;
+  min-height: 100vh;
+  justify-content: center;
+}
