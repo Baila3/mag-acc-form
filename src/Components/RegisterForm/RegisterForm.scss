@@ -1,11 +1,11 @@
 .forms {
-  border-color: blue;
+  border-color: #207178;
   border-radius: 0.5em;
 }
 .boxS {
   padding: 1em 6em 2em;
   border-radius: 0.5em;
-  border: 5px solid blue;
+  border: 5px solid #207178;
 }
 .signup_wrapper {
   display: flex;
@@ -14,4 +14,11 @@
   padding-bottom: 8%;
   min-height: 100vh;
   justify-content: center;
+}
+
+.user_btn {
+  margin-top: 2em;
+  border-radius: 0.5em;
+  border-color: #202020;
+  width: 100%;
 }

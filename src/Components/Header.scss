@@ -1,0 +1,20 @@
+img {
+  width: 208px;
+  height: 78.257425742574px;
+  display: block;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  max-width: inherit;
+}
+
+.nav {
+  padding: 2.5em;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 0.3em #207178;
+}
+
+a:hover {
+  color: #207178;
+}

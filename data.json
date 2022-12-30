@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "marc",
+      "email": "marc@mail.com",
+      "id": 1,
+      "department": "I.T.",
+      "employed": "No"
+    },
+    {
+      "name": "bob",
+      "email": "miraclemop12@gmail.com",
+      "id": 2,
+      "department": "service",
+      "emplyoyed": "no"
+    },
+    {
+      "name": null,
+      "email": null,
+      "department": null,
+      "emplyoyed": null,
+      "id": 3
+    }
+  ]
+}
