@@ -1,32 +1,44 @@
 {
   "users": [
     {
-      "name": "marc",
+      "name": "Marc",
       "email": "marc@mail.com",
-      "id": 1,
       "department": "I.T.",
-      "employed": "No"
+      "employed": "Yes",
+      "file": "Photo.img",
+      "id": 1
     },
     {
-      "name": "bob",
-      "email": "miraclemop12@gmail.com",
-      "id": 2,
-      "department": "service",
-      "emplyoyed": "no"
+      "name": "Bob",
+      "email": "bob12@mail.com",
+      "department": "Human Ressources",
+      "employed": "No",
+      "file": "Photo.img",
+      "id": 2
     },
     {
-      "name": null,
-      "email": null,
-      "department": null,
-      "emplyoyed": null,
+      "name": "Marc",
+      "email": "banana@12mail.com",
+      "department": "Customer Service",
+      "employed": "Yes",
+      "file": "Photo.img",
       "id": 3
     },
     {
-      "name": null,
-      "email": null,
-      "department": null,
-      "emplyoyed": null,
+      "name": "Steven",
+      "email": "steve@mail.com",
+      "department": "Customer Service",
+      "employed": "Yes",
+      "file": "Photo.img",
       "id": 4
+    },
+    {
+      "name": "Baila Ly",
+      "email": "bailaly161@gmail.com",
+      "department": "Customer Service",
+      "employed": "Yes",
+      "selectedFile": "dark-wallpaper.webp",
+      "id": 5
     }
   ]
 }

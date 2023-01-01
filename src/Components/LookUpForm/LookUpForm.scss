@@ -1,19 +1,19 @@
 .forms {
   border-color: #207178;
   border-radius: 0.5em;
+  margin: 1em;
 }
-.boxS {
-  padding: 1em 6em 2em;
-  border-radius: 0.5em;
-  border: 5px solid #207178;
-}
-.signup_wrapper {
+
+.Lookup_wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  padding-bottom: 8%;
-  min-height: 100vh;
   justify-content: center;
+  border: solid 0.3em #207178;
+  border-radius: 0.5em;
+  max-width: 60em ;
+  height: 6em;
+  margin-left: 15em;
 }
 
 .user_btn {
@@ -21,4 +21,37 @@
   border-radius: 0.5em;
   border-color: #202020;
   width: 100%;
+}
+
+.empData {
+  display: flex;
+  justify-content: center;
+}
+
+.height {
+  padding-left: 1.6em;
+  margin: -0.75em;
+}
+
+.but{
+  padding-bottom: 0.4em;
+}
+
+.btn{
+  font-size: larger;
+  border:none;
+  background-color: white;
+  color: #207178;
+}
+
+.empBox{
+  border: solid 0.3em #207178;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.5em;
+  width: 20%;
+  margin-top: 1.3em;
+  margin-left: 35em;
 }
